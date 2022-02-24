@@ -75,7 +75,7 @@ a:hover{
 }
 .content{
     margin-left: 10%;
-    margin-top: 40%;
+    margin-top: 25%;
     text-align: center;
     padding: 15px;
     color: white;
@@ -142,7 +142,7 @@ button:hover{
 .links{
     position: fixed;
     background: white;
-    top: 20%;
+    top: 40%;
 }
 a:hover .fa-facebook{
     background: #3b5998;
